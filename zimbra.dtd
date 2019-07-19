@@ -1,0 +1,1 @@
+<!ENTITY % start "<![CDATA[aaa"><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%end;'>">
